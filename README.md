@@ -1,6 +1,6 @@
 # I Am Rich
 
-A new Flutter project.
+An I am Rich based app, which was uploaded on Apple AppStore for 999 USD. 
 
 ## Getting Started
 
@@ -16,7 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Details
-
-Project is based on I am Rich app on Apple AppStore which costed about 999 USD. 
 
 To run the project, install Flutter and Dart on your host system with Android Emulator and SDK preinstalled
